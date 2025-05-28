@@ -1,6 +1,10 @@
 # arduino_with_Robot
 ## 아두이노를 이용한 로봇과의 상호작용 및 자동화
+## 📌 목차
+- [1. 소개](#1-소개)
+- [2. 실행 장면](#2-실행-장면)
 
+## 1. 소개
 로봇 자동화의 핵심 코드는 아래에 있다. <br>
 빛의 크기를 나타내는 변수인 cdsVol이고 <br>
 초음파를 통한 거리를 나타내는 변수인 distance이다.
@@ -65,3 +69,8 @@ void lightReaction(){
 100 ~ 150 : 일어나기    <br>
 50 ~ 100 : 인사하기    <br>
 ~ 50 : 전투태세   <br>
+
+## 2. 실행 장면
+<img src="https://github.com/jjkkhh123/arduino_with_Robot/blob/main/images/img1.png" alt="html 장면1" width="300" height="300">
+<img src="https://github.com/jjkkhh123/arduino_with_Robot/blob/main/images/img2.png" alt="html 장면2" width="300" height="300">
+<img src="https://github.com/jjkkhh123/arduino_with_Robot/blob/main/images/img3.png" alt="html 장면3" width="300" height="300">
