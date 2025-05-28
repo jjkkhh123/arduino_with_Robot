@@ -72,5 +72,5 @@ void lightReaction(){
 
 ## 2. 실행 장면
 <img src="https://github.com/jjkkhh123/arduino_with_Robot/blob/main/images/img1.png" alt="html 장면1" width="300" height="300">
-<img src="https://github.com/jjkkhh123/arduino_with_Robot/blob/main/images/img2.png" alt="html 장면2" width="300" height="300">
-<img src="https://github.com/jjkkhh123/arduino_with_Robot/blob/main/images/img3.png" alt="html 장면3" width="300" height="300">
+<img src="https://github.com/jjkkhh123/arduino_with_Robot/blob/main/images/img2.png" alt="html 장면2" width="500" height="300">
+<img src="https://github.com/jjkkhh123/arduino_with_Robot/blob/main/images/img3.png" alt="html 장면3" width="500" height="300">
