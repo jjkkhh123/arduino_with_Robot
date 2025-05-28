@@ -35,20 +35,24 @@ void lightReaction(){
       robotCon(115);
       delay(5000);
       isStand= false;
+      Serial.println("150cm이내 사물 없음 휴식중...");
     }
   }else{
     if(distance>100){
       robotCon(116);
       delay(5000);
       isStand= true;
+      Serial.println("물체 인식 완료 일어납니다.");
     }else{
       if(distance>50){
         robotCon(19);
         delay(7000);
+        Serial.println("안녕하세요 이 이상 오면 전투로 간주합니다.");
       }else{
         if(distance<50){
           robotCon(22);
           delay(5000);
+          Serial.println("거리 50cm미만 전투 준비");
         }
       }
     }
